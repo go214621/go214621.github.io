@@ -1,5 +1,6 @@
 /* Visuals */
 #gradient {
+  height: 50px;
   background-image: linear-gradient(#1E90FF, #0000CD);
 }
 
