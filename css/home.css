@@ -17,3 +17,8 @@
 .main_text {
   font-family: Montserrat-VariableFont_wght.ttf;
 }
+
+@main_font_face {
+  font-family: montserrat;
+  src: url(/font/Montserrat-VariableFont_wght.ttf);
+}
